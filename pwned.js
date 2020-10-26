@@ -1,1 +1,1 @@
-pwned.js
+alert('Pwned By Dark Trap x Nights');
